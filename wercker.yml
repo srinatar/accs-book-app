@@ -12,7 +12,7 @@ deploy-accs:
         opc_password: $OPC_PASSWORD
         rest_url: $REST_URL
         domain: $IDENTITY_DOMAIN
-        application_name: books-app
+        application_name: bookApp
         application_type: java
         file: book-service-1.0-SNAPSHOT.zip
 
